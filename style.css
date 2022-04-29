@@ -1,0 +1,10 @@
+body {
+/*flexable layout structure*/
+display: flex;
+
+/*centers out sketch horzontally*/
+justify-content: center;
+
+/*centers our sketch vertically*/
+align-items: center;
+}
